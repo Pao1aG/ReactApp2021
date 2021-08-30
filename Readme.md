@@ -2,7 +2,7 @@
 
 ## Description
 
- Our group created an application where the user can login and search for events near their city and save those that they are intested in.
+Users can create an account and search for events by location or artist and save them to their profile. Web application developed using MongoDB/Mongoose, Express.js, React, Node.js, and Material-UI as a CSS React Library.
 
  ---
 
@@ -18,7 +18,7 @@
 ## Access the App
 
 You can access our live application here:
-> https://aqueous-peak-04279.herokuapp.com/
+> https://events-near-you-pg.herokuapp.com/
 
 ---
 
